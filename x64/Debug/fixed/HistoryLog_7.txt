@@ -1,5 +1,0 @@
-﻿Item: Newspaper, Qty: 17, Reward: 700 pts, Time: 2025-07-19 20:24:41.576480900, Status: Approved
-Item: Cardboard, Qty: 24, Reward: 1000 pts, Time: 2025-07-19 20:42:07.197065700, Status: Approved
-Item: Newspaper, Qty: 7, Reward: 0 pts, Time: 2025-07-22 15:01:07.458711500, Status: Approved
-SubmissionID: 29, Item: Plastic Bottle, Qty: 13, Reward: 1000 pts, Time: 2025-07-22 15:13:07, Status: Approved
-Item: Plastic Bottle, Qty: 13, Reward: 1000 pts, Time: 2025-07-22 15:12:38.680995100, Status: Approved

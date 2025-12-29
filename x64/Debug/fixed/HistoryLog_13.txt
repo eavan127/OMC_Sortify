@@ -1,2 +1,0 @@
-SubmissionID: 53, Item: Newspaper, Qty: 10, Reward: 0 pts, Time: 2025-07-23 16:39:00, Status: Approved
-SubmissionID: 54, Item: Newspaper, Qty: 5, Reward: 500 pts, Time: 2025-07-23 16:40:07, Status: Approved

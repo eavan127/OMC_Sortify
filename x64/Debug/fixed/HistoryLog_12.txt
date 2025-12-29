@@ -1,4 +1,0 @@
-SubmissionID: 35, Item: Newspaper, Qty: 15, Reward: 1000 pts, Time: 2025-07-22 16:07:58, Status: Approved
-SubmissionID: 36, Item: Plastic Bottle, Qty: 10, Reward: 1000 pts, Time: 2025-07-22 16:13:03, Status: Approved
-SubmissionID: 37, Item: Glass, Qty: 13, Reward: 1000 pts, Time: 2025-07-22 16:17:26, Status: Approved
-SubmissionID: 51, Item: Paper, Qty: 3, Reward: 5 pts, Time: 2025-07-22 21:38:58, Status: Approved
